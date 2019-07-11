@@ -3,9 +3,65 @@
   padding:0;
   box-sizing:border-box;
 }
-.stars img{
+body{
+  background-image: linear-gradient(#092327, #00A9A5);
+}
+h1{
+  text-align: center;
+  color:#90C2E7
+}
+section{
   display: flex;
-  height: 50px;
-  width: 50px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+}
+.pic1 img{
+  display: flex;
+  height: 175px;
+  width: 175px;
   object-fit: cover;
+  border:1px solid #90C2E7;
+  margin: 25px;
+}
+.pic2 img{
+  display: flex;
+  height: 175px;
+  width: 175px;
+  object-fit: cover;
+  border:1px solid #90C2E7;
+  margin: 25px;
+}
+.pic3 img{
+  display: flex;
+  height: 175px;
+  width: 175px;
+  object-fit: cover;
+  border:1px solid #90C2E7;
+  margin: 25px;
+}
+.pic4 img{
+  display: flex;
+  height: 175px;
+  width: 175px;
+  object-fit: cover;
+  border:1px solid #90C2E7;
+  margin: 25px;
+}
+.pic5 img{
+  display: flex;
+  height: 175px;
+  width: 175px;
+  object-fit: cover;
+  border:1px solid #90C2E7;
+  margin: 25px;
+}
+.shots-from-earth img{
+  display: flex;
+  height: 175px;
+  width: 175px;
+  object-fit: cover;
+  border:1px solid #90C2E7;
+  margin: 25px;
 }
